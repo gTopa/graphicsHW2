@@ -9,11 +9,11 @@ draw_line(screen, 250, 250, 350, 300, color)
 display(screen)
 
 
-draw_line(screen, 250, 250, 350, 200, color)
+draw_line(screen, 250, 250, 150, 300, color)
 
 display(screen)
 
-'''draw_line(screen, 250, 250, 150, 200, color)
+draw_line(screen, 250, 250, 150, 200, color)
 
 display(screen)
 
@@ -38,4 +38,3 @@ draw_line(screen, 250, 250, 200, 350, color)
 display(screen)
 
 save_extension(screen, 'img.png')
-'''
